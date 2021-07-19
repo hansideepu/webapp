@@ -9,7 +9,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>This Page is created for Demo</h2>
-        <h3>By Divya Pulivarthy</h3>
+        <h3>This Page is created for Demo Purpose</h3>
+        <h4>By Divya Pulivarthy</h4>
     </body>
 </html>
